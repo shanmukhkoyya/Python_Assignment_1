@@ -58,8 +58,17 @@ The objective of this assignment is to build a basic understanding of Python Str
 
 | File | Description |
 |---|---|
-| `Python_Assignment_1.ipynb` | Completed Python assignment |
-| `Python_Assignment_1.pdf` | Assignment instructions |
+| [Python_Assignment_1.ipynb](Python_Assignment_1.ipynb) | Completed Python assignment notebook |
+| [Python_Assignment_1.pdf](Python_Assignment_1.pdf) | Assignment instructions |
+
+## How to run
+
+1. Open `Python_Assignment_1.ipynb` in Jupyter Notebook or JupyterLab.
+2. Select **Kernel → Restart Kernel and Run All Cells**.
+3. When prompted, enter a name to generate the welcome message.
+4. Review the saved outputs for string slicing, built-in string methods, and tuple operations.
+
+The saved GitHub outputs use the sample name **Shanmukh**; the original input prompt remains interactive.
 
 ## 👨‍💻 Author
 
