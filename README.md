@@ -1,77 +1,49 @@
-# Python Assignment 1 – Data Structures
+# Python Foundations / Assignment 01
 
-## Strings & Tuples
+**Strings and tuples**  
+A first practice notebook for learning how Python stores and works with text and ordered collections.
 
-### 📌 Overview
+---
 
-This assignment focuses on basic Python data structures, specifically **Strings and Tuples**.
+## Learning brief
 
-The assignment demonstrates string concatenation, slicing, indexing, string methods, tuple operations, and accessing tuple elements.
+This assignment focuses on small, directly observable operations rather than a business dataset.
 
-## 📝 Topics Covered
+### String exercises
+- Build a welcome message from user input.
+- Access the first and last characters of a string.
+- Use slicing to select the first five and last eleven characters.
+- Reverse a string and extract a word using slicing.
+- Practise upper(), lower(), capitalize(), count() and replace().
 
-### 1. String Concatenation
+### Tuple exercises
+- Create tuples and access their elements.
+- Concatenate tuples.
+- Repeat tuple values.
+- Select the third element, the first three elements and the last three elements.
 
-- Taking the user's name as input
-- Concatenating strings
-- Creating a welcome message
+## Open the work
 
-### 2. String Slicing and Indexing
-
-- Accessing the first character
-- Accessing the last character
-- Printing the first 5 characters
-- Printing the last 11 characters
-- Reversing a string
-- Extracting the word "Python" using slicing
-
-### 3. String Methods
-
-The following string methods are practiced:
-
-- `upper()`
-- `lower()`
-- `capitalize()`
-- `count()`
-- `replace()`
-
-### 4. Tuples
-
-- Creating tuples
-- Concatenating tuples
-- Repeating tuple elements
-- Accessing the third element
-- Accessing the first three elements
-- Accessing the last three elements
-
-## 🛠️ Tools Used
-
-- Python
-- Jupyter Notebook
-- GitHub
-
-## 🎯 Objective
-
-The objective of this assignment is to build a basic understanding of Python Strings and Tuples and practice common operations used with these data structures.
-
-## 📂 Files
-
-| File | Description |
+| Resource | What it contains |
 |---|---|
-| [Python_Assignment_1.ipynb](Python_Assignment_1.ipynb) | Completed Python assignment notebook |
-| [Python_Assignment_1.pdf](Python_Assignment_1.pdf) | Assignment instructions |
+| [Completed notebook](Python_Assignment_1.ipynb) | Code examples and saved outputs |
+| [Assignment PDF](Python_Assignment_1.pdf) | Original instructions |
 
-## How to run
+## Run the notebook
 
-1. Open `Python_Assignment_1.ipynb` in Jupyter Notebook or JupyterLab.
-2. Select **Kernel → Restart Kernel and Run All Cells**.
-3. When prompted, enter a name to generate the welcome message.
-4. Review the saved outputs for string slicing, built-in string methods, and tuple operations.
+1. Open the notebook in Jupyter Notebook or JupyterLab.
+2. Restart the kernel and run all cells.
+3. Enter a name when the input prompt appears.
+4. Review the string and tuple outputs.
 
-The saved GitHub outputs use the sample name **Shanmukh**; the original input prompt remains interactive.
+The saved GitHub outputs use the sample name **Shanmukh**; the input prompt remains interactive.
 
-## 👨‍💻 Author
+## Takeaway
 
-**Shanmukh Koyya**
+This exercise builds familiarity with string indexing, slicing, built-in methods and tuple operations. These are foundational Python skills used in later data preparation and analysis tasks.
 
-Aspiring Data Analyst | AI Data Analytics Learner
+---
+
+**Shanmukh Koyya**  
+Aspiring Data Analyst · Python learner  
+[GitHub](https://github.com/shanmukhkoyya) · [LinkedIn](https://www.linkedin.com/in/shanmukh-koyya/)
