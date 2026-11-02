@@ -1,49 +1,27 @@
-# Python Foundations / Assignment 01
+<div align="center"><h1>🐍 PYTHON STARTER QUEST</h1><b>Assignment 01 · Strings and tuples</b><img src="https://img.shields.io/badge/LEVEL-01%20BEGINNER-2E8B57?style=for-the-badge"/></div>
 
-**Strings and tuples**  
-A first practice notebook for learning how Python stores and works with text and ordered collections.
-
----
-
-## Learning brief
-
-This assignment focuses on small, directly observable operations rather than a business dataset.
-
-### String exercises
-- Build a welcome message from user input.
-- Access the first and last characters of a string.
-- Use slicing to select the first five and last eleven characters.
-- Reverse a string and extract a word using slicing.
-- Practise upper(), lower(), capitalize(), count() and replace().
-
-### Tuple exercises
-- Create tuples and access their elements.
-- Concatenate tuples.
-- Repeat tuple values.
-- Select the third element, the first three elements and the last three elements.
-
-## Open the work
-
-| Resource | What it contains |
+## Skill map
+| 🔤 String missions | 📦 Tuple missions |
 |---|---|
-| [Completed notebook](Python_Assignment_1.ipynb) | Code examples and saved outputs |
-| [Assignment PDF](Python_Assignment_1.pdf) | Original instructions |
+| Index and slice text | Create and access |
+| Reverse a string | Concatenate |
+| Upper / lower / capitalize | Repeat values |
+| Count and replace | Select items and slices |
 
-## Run the notebook
+## Mission cards
+<details open><summary><b>Mission A — text handling</b></summary>Build a welcome message, inspect characters, slice and reverse strings, and practise built-in methods.</details>
+<details><summary><b>Mission B — tuple operations</b></summary>Create tuples, access elements, concatenate, repeat and slice.</details>
 
-1. Open the notebook in Jupyter Notebook or JupyterLab.
-2. Restart the kernel and run all cells.
-3. Enter a name when the input prompt appears.
-4. Review the string and tuple outputs.
+## Launch pad
+[![Open notebook](https://img.shields.io/badge/OPEN_NOTEBOOK-F37626?style=for-the-badge&logo=jupyter)](Python_Assignment_1.ipynb)  
+[Original assignment PDF](Python_Assignment_1.pdf)
 
-The saved GitHub outputs use the sample name **Shanmukh**; the input prompt remains interactive.
+## Run steps
+1. Open in Jupyter or JupyterLab.
+2. Restart kernel and run all cells.
+3. Enter a name at the input prompt.
+4. Compare output with the saved example.
 
-## Takeaway
+<sub>The saved output uses “Shanmukh” as sample input; the prompt remains interactive.</sub>
 
-This exercise builds familiarity with string indexing, slicing, built-in methods and tuple operations. These are foundational Python skills used in later data preparation and analysis tasks.
-
----
-
-**Shanmukh Koyya**  
-Aspiring Data Analyst · Python learner  
-[GitHub](https://github.com/shanmukhkoyya) · [LinkedIn](https://www.linkedin.com/in/shanmukh-koyya/)
+**Achievement:** String indexing, slicing, built-in methods and tuple operations.
